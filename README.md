@@ -9,7 +9,7 @@
 
 <h4>Sobre minha pessoa 🙃</h4>
 
-- 🏡💻 Já fui dev fullstack e confesso que o lado front me fisgou e acabei me indentificando nessa stack 🤣
+- 🏡💻 Já fui dev fullstack e confesso que o lado front me fisgou e acabei me identificando nessa stack 🤣
 - :seedling: No meu tempo livre, dou uma contribuição aqui e ali, é legal 😊
 - :mortar_board: Tenho um diploma de Sistemas de Informação 😁
 
