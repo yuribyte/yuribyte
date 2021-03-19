@@ -20,9 +20,4 @@
 <code><img height="50" src="https://compassionate-ride-d7fe62.netlify.app/nx_logo.png" alt="NX"></code>
 <code><img height="50" src="https://www.seekpng.com/png/full/377-3772047_sass-logo.png" alt="SASS"></code>
 
-
-<span align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=memio&layout=compact"/>
-  <h6>bom... faço de tudo com o VSCode então o wakatime acaba pegando o que não deveria, então... whatever</h6>
-</span>
-
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=memio&layout=compact"/>
